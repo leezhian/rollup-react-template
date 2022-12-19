@@ -3,7 +3,7 @@ import styles from './App.module.scss'
 
 const App: FC = () => {
   return <div className={styles['title']}>
-    Hello, Rollup-React-Template
+    Hello, Rollup-React-Template1
   </div>
 }
 

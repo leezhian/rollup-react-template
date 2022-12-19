@@ -1,3 +1,3 @@
 # rollup-react-template
 
-react + typescript + scss + rollup 打包
+react + typescript + sass + rollup 打包
